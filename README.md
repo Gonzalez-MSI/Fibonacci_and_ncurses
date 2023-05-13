@@ -124,6 +124,11 @@ int main(){
 	return 0;
 }
 
-
-
 ```
+
+```html
+ ┌───────────┐
+ │  Output   │ 
+ └───────────┘
+```
+![Output](Output.png)
